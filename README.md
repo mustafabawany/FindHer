@@ -28,7 +28,7 @@ FindHer is an application based platform to promote women and empower them.Throu
 
 ## UI of the Project
 
-![Finished Website](https://github.com/mustafabawany/FindHer/blob/main/FindHer.fig)
+![Finished Website](https://github.com/mustafabawany/FindHer/blob/main/FindHerDemo.gif)
  
 ## Contact
 * Syed Ahsan, [syedahsanwork127@gmail.com]()
